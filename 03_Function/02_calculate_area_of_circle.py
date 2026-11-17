@@ -1,3 +1,4 @@
+
 def calculate_area(rad):
     radius = float(rad)
     area = 3.1416 * radius * radius
